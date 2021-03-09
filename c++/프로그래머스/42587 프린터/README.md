@@ -1,5 +1,7 @@
 ## 문제 링크 : [프로그래머스 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
 
+## 문제 유형 : 스택, 큐
+
 ## 문제 설명
 
 ```
