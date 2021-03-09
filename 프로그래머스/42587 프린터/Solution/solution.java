@@ -1,4 +1,3 @@
-```
 import java.util.*;
 
 public int solution(int[] priorities, int location) {
@@ -32,4 +31,3 @@ public int solution(int[] priorities, int location) {
 
 	return prints[location];
 }
-```
